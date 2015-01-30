@@ -1,3 +1,4 @@
 soket
 =====
-A quick walkthrough of Socket_io[ getting started guide](http://socket.io/get-started/)
+A quick app made with Socket_io[ getting started guide](http://socket.io/get-started/)
+
